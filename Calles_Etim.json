@@ -307,5 +307,210 @@
     {"Name":"José Pedro Varela","Etimologia":"Rinde homenaje al educador uruguayo José Pedro Varela."},
     {"Name":"Tinogasta","Etimologia":"Honra a la ciudad argentina de Tinogasta."},
     {"Name":"Campana","Etimologia":"Lleva el nombre de la ciudad argentina de Campana."},
-    {"Name":"Helguera","Etimologia":"Lleva el nombre de una familia tradicional de Buenos Aires."}
+    {"Name":"Helguera","Etimologia":"Lleva el nombre de una familia tradicional de Buenos Aires."},
+    {"Name": "Pichincha","Etimologia": "Hace referencia a la Batalla de Pichincha (1822)."},
+    {"Name": "Matheu","Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."},
+  {
+    "Name": "15 de Noviembre de 1889",
+    "Etimologia": "Recibe su nombre en conmemoración de la proclamación de la República en Brasil."
+  },
+  {
+    "Name": "Alberti",
+    "Etimologia": "Honra al escritor y político argentino Juan Bautista Alberdi."
+  },
+  {
+    "Name": "Avenida Colombia",
+    "Etimologia": "Recibe su nombre en honor al país sudamericano."
+  },
+  {
+    "Name": "Avenida Iraola",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Belisario Roldán",
+    "Etimologia": "Rinde homenaje al escritor y político Belisario Roldán."
+  },
+  {
+    "Name": "Avenida Casares",
+    "Etimologia": "Honra al político y escritor Carlos Casares."
+  },
+  {
+    "Name": "Avenida Costanera Doctor Tristán Achával Rodríguez",
+    "Etimologia": "Lleva el nombre del médico y político Tristán Achával Rodríguez."
+  },
+  {
+    "Name": "Avenida Infanta Isabel",
+    "Etimologia": "Recibe su nombre en honor a la infanta Isabel de Borbón."
+  },
+  {
+    "Name": "Avenida General Gelly y Obes",
+    "Etimologia": "Honra al militar y político Juan Gelly y Obes."
+  },
+  {
+    "Name": "Avenida Carlos Calvo",
+    "Etimologia": "Rinde homenaje al jurista e historiador Carlos Calvo."
+  },
+  {
+    "Name": "Avenida Eduardo Madero",
+    "Etimologia": "Lleva el nombre del empresario y político Eduardo Madero."
+  },
+  {
+    "Name": "Avenida Adolfo Berro",
+    "Etimologia": "Honra al político y escritor Adolfo Berro."
+  },
+  {
+    "Name": "Avenida Coronel Marcelino E. Freyre",
+    "Etimologia": "Rinde homenaje al militar Marcelino E. Freyre."
+  },
+  {
+    "Name": "Avenida Lastra",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Patricias Argentinas",
+    "Etimologia": "Honra a las mujeres que colaboraron en la lucha por la independencia."
+  },
+  {
+    "Name": "Avenida Lisandro de la Torre",
+    "Etimologia": "Rinde homenaje al político Lisandro de la Torre."
+  },
+  {
+    "Name": "Avenida Piedra Buena",
+    "Etimologia": "Lleva el nombre del marino Luis Piedra Buena."
+  },
+  {
+    "Name": "Avenida Soldado de la Frontera",
+    "Etimologia": "Honra a los soldados que defendieron las fronteras argentinas."
+  },
+  {
+    "Name": "Avenida Riestra",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Argentina",
+    "Etimologia": "Recibe su nombre en honor a la República Argentina."
+  },
+  {
+    "Name": "Avenida de los Corrales",
+    "Etimologia": "Hace referencia a los antiguos corrales de la ciudad."
+  },
+  {
+    "Name": "Avenida Bruix",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Canónigo Miguel del Corro",
+    "Etimologia": "Honra al sacerdote y político Miguel del Corro."
+  },
+  {
+    "Name": "Avenida Olivera",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Castañares",
+    "Etimologia": "Recibe su nombre en honor a una antigua estancia de la zona."
+  },
+  {
+    "Name": "Avenida Australia",
+    "Etimologia": "Lleva el nombre del país oceánico."
+  },
+  {
+    "Name": "Avenida Suárez",
+    "Etimologia": "Honra al político y militar argentino Suárez."
+  },
+  {
+    "Name": "Avenida Benito Pérez Galdós",
+    "Etimologia": "Rinde homenaje al escritor español Benito Pérez Galdós."
+  },
+  {
+    "Name": "Avenida Arregui",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Lafuente",
+    "Etimologia": "Honra al político y militar argentino Lafuente."
+  },
+  {
+    "Name": "Avenida Varela",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Coronel Esteban Bonorino",
+    "Etimologia": "Rinde homenaje al militar Esteban Bonorino."
+  },
+  {
+    "Name": "Avenida Chivilcoy",
+    "Etimologia": "Honra a la ciudad argentina de Chivilcoy."
+  },
+  {
+    "Name": "Avenida Jujuy",
+    "Etimologia": "Recibe su nombre en honor a la provincia argentina de Jujuy."
+  },
+  {
+    "Name": "Avenida Pinedo",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida de los Italianos",
+    "Etimologia": "Honra a la comunidad italiana en Argentina."
+  },
+  {
+    "Name": "Avenida Cobo",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Vernet",
+    "Etimologia": "Honra al científico y político argentino Vernet."
+  },
+  {
+    "Name": "Avenida San Juan Bautista De La Salle",
+    "Etimologia": "Rinde homenaje al santo y educador Juan Bautista De La Salle."
+  },
+  {
+    "Name": "Avenida Lacarra",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Asturias",
+    "Etimologia": "Recibe su nombre en honor a la región española de Asturias."
+  },
+  {
+    "Name": "Avenida Sáenz",
+    "Etimologia": "Honra al político y militar argentino Sáenz."
+  },
+  {
+    "Name": "Avenida Sánchez de Loria",
+    "Etimologia": "Lleva el nombre de una familia tradicional de Buenos Aires."
+  },
+  {
+    "Name": "Avenida Calabria",
+    "Etimologia": "Recibe su nombre en honor a la región italiana de Calabria."
+  },
+  {
+    "Name": "Avenida Ruiz Huidobro",
+    "Etimologia": "Rinde homenaje al militar y político Ruiz Huidobro."
+  },
+  {
+    "Name": "Avenida José Fagnano",
+    "Etimologia": "Honra al misionero y explorador José Fagnano."
+  },
+  {
+    "Name": "Avenida Presidente Manuel Quintana",
+    "Etimologia": "Lleva el nombre del presidente argentino Manuel Quintana."
+  },
+  {
+    "Name": "Avenida Regimiento de Patricios",
+    "Etimologia": "Honra al histórico Regimiento de Patricios."
+  },
+  {
+    "Name": "Monseñor Larumbe",
+    "Etimologia": "Rinde homenaje al sacerdote Monseñor Larumbe."
+  },
+  {
+    "Name": "Haiti",
+    "Etimologia": "Recibe su nombre en honor al país caribeño."
+  },
+  {
+    "Name": "Conscripto Marcelo Oscar Romero",
+    "Etimologia": "Honranra al soldado Marcelo Oscar Romero."
 ]
